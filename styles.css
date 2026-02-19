@@ -1,0 +1,15 @@
+body {
+	background: radial-gradient(600px at 50% 50%, #fff 20%, #000 100%);
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	font-size: 80px;
+	transform: skewY(-10deg);
+	letter-spacing: 4px;
+	word-spacing: -8px;
+}
+.first {
+
+}
